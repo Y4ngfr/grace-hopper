@@ -17,7 +17,7 @@
 - **1930**: Mestrado na Universidade de Yale
 - **1934**: Doutorado em Matemática em Yale
 
-![Young Grace Hopper](grace_hopper_5.jpg)
+![Young Grace Hopper](grace_hopper_5.png)
 
 ### ⚓ Carreira Naval
 - **1943**: Alistou-se na Marinha durante a Segunda Guerra Mundial
