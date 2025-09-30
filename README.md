@@ -1,6 +1,6 @@
 # Grace Hopper: A Pioneira da Computação 🚀
 
-![Grace Hopper Portrait](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg/330px-Commodore_Grace_M._Hopper%2C_USN_%28covered%29.jpg)
+![Grace Hopper Portrait]("grace%20hopper%201".jpg)
 
 ## 🎖️ Quem foi Grace Hopper?
 
