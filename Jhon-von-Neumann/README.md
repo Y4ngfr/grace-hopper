@@ -22,7 +22,7 @@
 - **1945**: Publicou a Arquitetura de von Neumann
 - **1954**: Nomeado para a Comissão de Energia Atômica
 
-![Von Neumann at Princeton](john_von_neumann_3.png)
+![Von Neumann at Princeton](jhon_von_neumann_3.png)
 
 ---
 
@@ -40,7 +40,7 @@
 - Conceitos de minimax e estratégias mistas
 - Aplicações em economia, política e biologia
 
-![Computer Architecture](john_von_neumann_2.png)
+![Computer Architecture](jhon_von_neumann_2.png)
 
 ### ⚛️ Mecânica Quântica
 - **1932**: "Mathematical Foundations of Quantum Mechanics"
