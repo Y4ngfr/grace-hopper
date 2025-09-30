@@ -17,15 +17,13 @@
 - **1973**: Entrou em Harvard University
 - **1975**: Abandonou Harvard para fundar a Microsoft
 
-![Young Bill Gates](bill_gates_5.png)
+![Young Bill Gates](bill_gates_3.png)
 
 ### 🚀 Microsoft e Revolução Digital
 - **1975**: Fundou a Microsoft com Paul Allen
 - **1980**: Fechou contrato com IBM para sistema operacional
 - **1985**: Lançamento do Windows 1.0
 - **1995**: Windows 95 revoluciona interface do usuário
-
-![Microsoft Early Days](bill_gates_4.jpg)
 
 ---
 
@@ -41,8 +39,6 @@
 - Integrou Word, Excel e PowerPoint
 - Revolucionou o trabalho de escritório
 
-![Gates Programming](bill_gates_2.jpg)
-
 ### 💰 Modelo de Negócios de Software
 - Pioneiro no licenciamento de software
 - Estabeleceu o modelo de negócios para indústria de software
@@ -52,9 +48,6 @@
 - Integrou navegação web no Windows
 - Popularizou o acesso à internet para milhões
 - Dominou mercado de navegadores por anos
-
-![Windows Launch](bill_gates_3.jpg)
-*Bill Gates no lançamento do Windows 95, um marco na computação pessoal*
 
 ---
 
@@ -77,72 +70,11 @@
 
 > "A tecnologia é apenas uma ferramenta. Para motivar as crianças e fazê-las trabalhar juntas, o professor é o mais importante."
 
----
-
-## 📚 Legado e Influência
-
-### 💻 Revolução Digital
-- Tornou computadores acessíveis para massa
-- Criou padrões de indústria
-- Impulsionou economia digital global
-
-### 🏥 Filantropia
-- **2000**: Fundou Bill & Melinda Gates Foundation
-- Doou mais de $50 bilhões para causas globais
-- Foco em saúde global e educação
-
-### 🌍 Impacto Global
-- Modelo para empreendedores de tecnologia
-- Influência em políticas de saúde e educação
-- Advocacy por energia limpa e inovação
-
----
-
-## 🏛️ Fundação e Trabalho Filantrópico
-
-### 🎪 Áreas de Atuação
-- **Saúde Global**: Combate à malária, polio, HIV
-- **Educação**: Reforma educacional nos EUA
-- **Pobreza**: Desenvolvimento agrícola e econômico
-- **Energia**: Investimento em energia limpa
-
-### 📜 Realizações Notáveis
-- **GAVI**: Aliança global para vacinas
-- **The Giving Pledge**: Compromisso de doação de bilionários
-- **Breakthrough Energy**: Investimento em energia limpa
-
----
-
-## 📖 Para Saber Mais
-
-### 📚 Leitura Recomendada
-- "The Road Ahead" - Bill Gates
-- "Business @ the Speed of Thought" - Bill Gates
-- "Gates: How Microsoft's Mogul Reinvented an Industry" - Stephen Manes
-
-### 🌐 Recursos Online
-- [Gates Notes](https://www.gatesnotes.com)
-- [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org)
-- [Microsoft History](https://www.microsoft.com/en-us/about)
-
----
-
-## 🎉 Conclusão
-
-Bill Gates transformou não apenas a indústria de tecnologia, mas também redefiniu o papel dos bilionários na sociedade através de sua filantropia inovadora. Sua jornada de programador visionário a filantropo global continua inspirando gerações.
-
-> "Acredito que se você mostrar às pessoas os problemas e mostrar a elas as soluções, elas serão movidas a agir."
-
----
-
 <div align="center">
 
 *"O Visionário de Seattle" - 1955-presente* 💻🌍❤️
 
 </div>
-
----
-*Última atualização: Dezembro 2024*
 
 <div align="center">
 
