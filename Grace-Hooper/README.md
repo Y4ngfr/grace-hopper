@@ -26,6 +26,8 @@
 - **1983**: Promovida a Comodora
 - **1985**: Primeira mulher a alcançar o posto de Almirante
 
+![Grace Hopper Celebration](grace_hopper_4.jpg)
+
 ---
 
 ## 💡 Contribuições Revolucionárias
@@ -64,92 +66,11 @@
 
 ---
 
-## 📚 Legado e Influência
-
-### 🎓 Educação
-- Professora de matemática antes da guerra
-- Palestrante incansável, inspirando gerações de cientistas da computação
-
-### 👩‍💻 Mulheres na Tecnologia
-- Pioneira na inclusão feminina na computação
-- Inspiração para programas como o **Grace Hopper Celebration** - maior conferência mundial para mulheres em computação
-
-![Grace Hopper Celebration](grace_hopper_4.jpg)
-
-### 🎯 Filosofia e Citações Memoráveis
-
-> "Um navio no porto é seguro, mas não é para isso que os navios foram feitos. Saia do porto e navegue em mares perigosos."
-
-> "A frase mais perigosa na linguagem é: 'Sempre fizemos assim'."
-
-> "É mais fácil pedir perdão do que permissão."
-
----
-
-## 🎬 Aparições e Mídia
-
-### 📺 Entrevista com David Letterman
-- Em 1986, aos 79 anos, apareceu no Late Show com David Letterman
-- Explicou nanosegundos usando um cabo de telefone como demonstração visual
-
-[![Entrevista com Letterman](https://img.youtube.com/vi/JEpsKnWZrJ8/0.jpg)](https://www.youtube.com/watch?v=JEpsKnWZrJ8)
-
----
-
-## 📊 Dados Curiosos
-
-### 🎯 Curiosidades
-- **Nanossegundos**: Carregava sempre um pedaço de cabo de telefone (11.8 polegadas) para demonstrar o que a luz percorre em um nanosegundo
-- **Aposentadoria**: Continuou trabalhando até os 79 anos
-- **Militar**: Uma das mulheres de mais alta patente na Marinha americana
-
----
-
-## 🏛️ Museus e Homenagens
-
-### 🎪 Exposições Permanentes
-- **Smithsonian Institution** - Washington D.C.
-- **Computer History Museum** - California
-- **USS Intrepid Museum** - Nova York
-
-![Hopper Exhibit](https://images.squarespace-cdn.com/content/v1/5e66677ce35bb13442c9b2d8/1584114979397-8B2R3B6VWYH1VY1JQZ6R/Grace+Hopper+Portrait.jpg)
-
----
-
-## 📚 Para Saber Mais
-
-### 📖 Livros Recomendados
-- "Grace Hopper: Navy Admiral and Computer Pioneer" - Charlene W. Billings
-- "The Queen of Code" - Gillian Jacobs (documentário)
-- "Grace Hopper and the Invention of the Information Age" - Kurt W. Beyer
-
-### 🌐 Recursos Online
-- [Biografia oficial da Marinha](https://www.history.navy.mil/content/history/nhhc/browse-by-topic/people/wwii/grace-hopper.html)
-- [Computer History Museum](https://computerhistory.org/profile/grace-hopper/)
-- [Grace Hopper Celebration](https://ghc.anitab.org)
-
----
-
-## 🎉 Conclusão
-
-Grace Hopper não foi apenas uma programadora excepcional, mas uma visionária que moldou o futuro da computação. Seu legado continua inspirando milhões de pessoas na tecnologia, especialmente mulheres que buscam fazer a diferença neste campo.
-
-> "Eles me disseram que computadores só podiam fazer cálculos aritméticos. 
-> Eu sabia, e todo mundo sabia, que computadores podiam fazer aritmética, 
-> e eu disse que computadores poderiam fazer qualquer coisa que você 
-> pudesse colocar em símbolos. Eles poderiam manipular símbolos e 
-a aritmética é apenas um caso especial da manipulação de símbolos."
-
----
-
 <div align="center">
-
-*"Amazing Grace" - 1906-1992* 🎖️💻🚀
 
 </div>
 
 ---
-*Última atualização: Dezembro 2024*
 
 <div align="center">
 
