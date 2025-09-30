@@ -24,7 +24,7 @@
 - **1843**: Publicou suas "Notas" revolucionárias
 - **1852**: Faleceu aos 36 anos de câncer uterino
 
-![Ada Lovelace Diagram](ada_lovelace_6.png)
+![Ada Lovelace Diagram](ada_lovelace_2.png)
 
 ---
 
@@ -40,7 +40,7 @@
 - Desenvolveu um método para calcular números de Bernoulli
 - Seu trabalho é considerado o primeiro programa de computador
 
-![Ada's Notes](ada_lovelace_2.png)
+![Ada's Notes](ada_lovelace_6.png)
 
 ### 🔮 Visão do Futuro
 - Previu que máquinas poderiam compor música complexa
