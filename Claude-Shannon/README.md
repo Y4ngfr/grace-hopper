@@ -38,7 +38,7 @@
 - Estabeleceu fundamentos para design de computadores digitais
 - Introduziu o conceito de "bit" como unidade fundamental
 
-![Shannon's Diagrams](claude_shannon_3.jpg)
+![Shannon's Diagrams](claude_shannon_3.jpeg)
 
 ### 🤖 Inteligência Artificial e Aprendizado
 - **1950**: Propôs que máquinas poderiam jogar xadrez
