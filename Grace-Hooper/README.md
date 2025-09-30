@@ -38,7 +38,7 @@
 - **1952**: Desenvolveu o primeiro compilador (A-0 System)
 - Revolucionou a programação ao permitir que códigos em linguagem humana fossem traduzidos para linguagem de máquina
 
-![Hopper Working](grace_hopper_3.jpg)
+![Hopper Working](grace_hopper_2.jpg)
 
 ### 💬 Linguagem COBOL
 - **1959**: Liderou o desenvolvimento do COBOL (Common Business-Oriented Language)
@@ -48,7 +48,7 @@
 ### 🐛 A Origem do "Bug"
 - Popularizou o termo "debugging" após remover uma mariposa presa no Harvard Mark II
 
-![First Computer Bug](grace_hopper_2.jpg)
+![First Computer Bug](grace_hopper_3.jpg)
 *O primeiro "bug" de computador - uma mariposa encontrada em 1947*
 
 ---
