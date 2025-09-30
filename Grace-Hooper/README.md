@@ -17,7 +17,7 @@
 - **1930**: Mestrado na Universidade de Yale
 - **1934**: Doutorado em Matemática em Yale
 
-![Young Grace Hopper](grace_hopper_2.jpg)
+![Young Grace Hopper](grace_hopper_5.jpg)
 
 ### ⚓ Carreira Naval
 - **1943**: Alistou-se na Marinha durante a Segunda Guerra Mundial
@@ -48,7 +48,7 @@
 ### 🐛 A Origem do "Bug"
 - Popularizou o termo "debugging" após remover uma mariposa presa no Harvard Mark II
 
-![First Computer Bug](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/H96566k.jpg/330px-H96566k.jpg)
+![First Computer Bug](grace_hopper_2.jpg)
 *O primeiro "bug" de computador - uma mariposa encontrada em 1947*
 
 ---
