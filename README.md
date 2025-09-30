@@ -1,6 +1,6 @@
 # Grace Hopper: A Pioneira da Computação 🚀
 
-![Grace Hopper Portrait](grace_hopeer_1.jpg)
+![Grace Hopper Portrait](grace_hopper_1.jpg)
 
 ## 🎖️ Quem foi Grace Hopper?
 
@@ -16,7 +16,7 @@
 - **1930**: Mestrado na Universidade de Yale
 - **1934**: Doutorado em Matemática em Yale
 
-![Young Grace Hopper](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Grace_Hopper_and_UNIVAC.jpg/330px-Grace_Hopper_and_UNIVAC.jpg)
+![Young Grace Hopper](grace_hopper_2.jpg)
 
 ### ⚓ Carreira Naval
 - **1943**: Alistou-se na Marinha durante a Segunda Guerra Mundial
@@ -37,7 +37,7 @@
 - **1952**: Desenvolveu o primeiro compilador (A-0 System)
 - Revolucionou a programação ao permitir que códigos em linguagem humana fossem traduzidos para linguagem de máquina
 
-![Hopper Working](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Grace_Hopper_%281987-06-09%29.jpg/330px-Grace_Hopper_%281987-06-09%29.jpg)
+![Hopper Working](grace_hopper_3.jpg)
 
 ### 💬 Linguagem COBOL
 - **1959**: Liderou o desenvolvimento do COBOL (Common Business-Oriented Language)
@@ -73,7 +73,7 @@
 - Pioneira na inclusão feminina na computação
 - Inspiração para programas como o **Grace Hopper Celebration** - maior conferência mundial para mulheres em computação
 
-![Grace Hopper Celebration](https://ghc.anitab.org/wp-content/uploads/2022/09/GHC22_Website_Logo_Registrationsite.png)
+![Grace Hopper Celebration](grace_hopper_4.jpg)
 
 ### 🎯 Filosofia e Citações Memoráveis
 
