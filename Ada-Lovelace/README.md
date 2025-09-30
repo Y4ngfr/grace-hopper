@@ -1,6 +1,6 @@
 # Ada Lovelace: A Primeira Programadora da História 💫
 
-![Ada Lovelace Portrait](ada_lovelace_1.jpg)
+![Ada Lovelace Diagram](ada_lovelace_2.png)
 
 ## 👑 Quem foi Ada Lovelace?
 
@@ -23,8 +23,6 @@
 - **1842**: Traduziu artigo do italiano Luigi Menabrea
 - **1843**: Publicou suas "Notas" revolucionárias
 - **1852**: Faleceu aos 36 anos de câncer uterino
-
-![Ada Lovelace Diagram](ada_lovelace_2.png)
 
 ---
 
