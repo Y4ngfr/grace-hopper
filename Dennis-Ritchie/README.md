@@ -16,15 +16,13 @@
 - **1967**: Entrou para os Bell Labs
 - **1968**: Obteve PhD em Matemática Aplicada em Harvard
 
-![Young Dennis Ritchie](dennis_ritchie_5.png)
-
 ### 🔬 Carreira nos Bell Labs
 - **1969**: Começou a trabalhar no projeto Unix com Ken Thompson
 - **1971**: Primeira versão do Unix
 - **1973**: Desenvolveu a linguagem C com Ken Thompson
 - **1978**: Publicou "The C Programming Language" com Brian Kernighan
 
-![Ritchie at Bell Labs](dennis_ritchie_4.jpg)
+![Ritchie at Bell Labs](dennis_ritchie_2.jpg)
 
 ---
 
@@ -42,7 +40,7 @@
 - Introduziu conceitos revolucionários como pipes e shell
 - Filosofia "fazer uma coisa e fazer bem"
 
-![C Programming](dennis_ritchie_2.jpg)
+![C Programming](dennis_ritchie_3.png)
 
 ### 📖 "The C Programming Language"
 - **1978**: Livro com Brian Kernighan (conhecido como "K&R")
@@ -56,9 +54,6 @@
 - Princípios de design que permeiam a computação moderna
 - Cultura de software livre e open source
 
-![Unix System](dennis_ritchie_3.jpg)
-*Diagrama do sistema Unix mostrando sua arquitetura modular*
-
 ---
 
 ## 🏆 Reconhecimentos e Prêmios
@@ -69,16 +64,6 @@
 | **Medalha IEEE Richard W. Hamming** | 1990 | Contribuições em ciência da computação |
 | **National Medal of Technology** | 1999 | Com Ken Thompson por Unix e C |
 | **Japan Prize** | 2011 | Por contribuições à tecnologia da informação |
-
----
-
-## 🎯 Filosofia e Citações Inspiradoras
-
-> "Unix é simples. Só é preciso ser um gênio para entender sua simplicidade."
-
-> "A linguagem C tem o poder do assembly e a conveniência do... assembly."
-
-> "Programas devem ser escritos para que as pessoas possam lê-los, e apenas incidentalmente para que as máquinas possam executá-los."
 
 ---
 
@@ -120,36 +105,11 @@
 
 ---
 
-## 📖 Para Saber Mais
-
-### 📚 Leitura Recomendada
-- "The C Programming Language" - Brian Kernighan & Dennis Ritchie
-- "Unix: A History and a Memoir" - Brian Kernighan
-- "The Art of Unix Programming" - Eric S. Raymond
-
-### 🌐 Recursos Online
-- [Bell Labs Archive](https://www.bell-labs.com/usr/dmr/www/)
-- [The Development of the C Language](https://www.bell-labs.com/usr/dmr/www/chist.html)
-- [Computer History Museum - Unix](https://computerhistory.org/profile/dennis-ritchie/)
-
----
-
-## 🎉 Conclusão
-
-Dennis Ritchie foi um dos arquitetos mais influentes da computação moderna. Suas criações - a linguagem C e o sistema Unix - não apenas sobreviveram por décadas, mas continuam a ser fundamentais para a tecnologia atual. Seu legado está presente em cada dispositivo computacional e em praticamente toda a infraestrutura digital do mundo.
-
-> "O que queremos preservar não é apenas uns e zeros, mas ideias, cultura e a capacidade de construir sobre o trabalho dos outros."
-
----
-
 <div align="center">
 
 *"O Pai da Computação Moderna" - 1941-2011* 💻🔧📚
 
 </div>
-
----
-*Última atualização: Dezembro 2024*
 
 <div align="center">
 
