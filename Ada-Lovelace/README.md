@@ -16,7 +16,7 @@
 - **1833**: Conheceu Charles Babbage, pai do computador
 - **1842**: Traduziu e ampliou o artigo sobre a Máquina Analítica
 
-![Young Ada Lovelace](ada_lovelace_3.png)
+![Young Ada Lovelace](ada_lovelace_3.jpg)
 
 ### 🔬 Parceria com Babbage
 - **1833**: Iniciou colaboração com Charles Babbage
